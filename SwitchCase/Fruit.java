@@ -1,4 +1,4 @@
-package javaPackage;
+package SwitchCase;
 import java.util.*;
 public class Fruit 
 {
