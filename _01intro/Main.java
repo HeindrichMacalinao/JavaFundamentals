@@ -1,6 +1,6 @@
 package _01intro;
 
-public class Example {
+public class Main {
     public static void main(String[] args) {
         String name = "Zhanghao";
         System.out.println("Hello " + name);
