@@ -1,4 +1,4 @@
-package Intro;
+package _01intro;
 
 public class Example {
     public static void main(String[] args) {
