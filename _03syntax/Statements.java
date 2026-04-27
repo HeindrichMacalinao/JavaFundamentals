@@ -1,3 +1,5 @@
+package _03syntax;
+
 public class Statements {
     public static void main(String[] args)
     {
